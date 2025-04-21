@@ -2,6 +2,12 @@
 
 Chrono Tinker is a **top-down 2D survival game** built in Unity, blending fast-paced time manipulation mechanics with dark satire and retro-futuristic charm. Dive into the chaotic corridors of a mysterious time lab, evade deadly robots, and bend time itself to survive.
 
+<p align="center">
+  <img src="Screenshots/Screenshot1.PNG" width="30%" alt="Main Menu" />
+  <img src="Screenshots/Screenshot2.PNG" width="30%" alt="Conversation" />
+  <img src="Screenshots/Screenshot3.PNG" width="30%" alt="Gameplay" />
+</p>
+
 ---
 
 ## 🎮 Premise
